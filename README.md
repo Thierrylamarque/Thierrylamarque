@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thierrylamarque
-- 👀 I’m interested in Data Platforms / Data Science / Machine Learning
+- 👀 I’m interested in Data Platforms / Data Science / Machine Learning / Artificial Intelligence
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 You can reach out to me on thierry.lamarque@icloud.com
