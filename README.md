@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Thierrylamarque
-- 👀 I’m interested in Data Platforms / Data Science / Machine Learning / Artificial Intelligence
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ML projects
-- 📫 You can reach out to me on thierry.lamarque@icloud.com
-
-<!---
-Thierrylamarque/Thierrylamarque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm @Thierrylamarque. Interested in Data Platforms / Data Science / Machine Learning / Artificial Intelligence. I’m currently learning Data Science and Artificial Intelligence at Deakin University, Australia
